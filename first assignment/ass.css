@@ -1,0 +1,176 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+body{
+    overflow-x: hidden;
+    background-image: url(1.jpg); 
+    background-size: cover;
+    background-repeat: no-repeat;
+ }
+ .container{
+     max-width: 80%;
+     margin: auto;
+     margin-top: 10px;
+ }
+ .one{
+     display: flex;
+     justify-content:space-between;
+ }
+ .sub{
+     color: orangered;
+     font-size: 45px;
+     font-weight:bold;
+ }
+ ul{
+     display: flex;
+     list-style-type: none;
+     padding: 28px;
+ }
+ ul li a{
+     text-decoration: none;
+     color: white;
+    padding: 30px;
+    margin-top: 30px;
+    font-weight: bold;
+ }
+ .cum{
+     padding: 25px;
+ }
+ .form{
+     padding: 10px;
+     /* text-align: center; */
+     background-color: transparent;
+     border-radius: 1;
+     border-color: orangered;
+     outline: none;
+     font-size: 13px;
+     /* border-style: none; */
+ }
+ .form::placeholder{
+     color: white;
+ }
+ .btn-primary{
+     padding: 12px;
+     background-color: orangered;
+     outline: none;
+     border-end-end-radius: 5px;
+     border-style: none;
+ }
+ section{
+     display: flex;
+     /* justify-content: space-between; */
+ }
+ .two{
+     margin-top: 30px;
+ }
+ .phase{
+     flex: 2;
+ }
+ .top{
+     font-size: 70px;
+     color: white;
+ }
+ span{
+     color: orangered;
+ }
+ .fit{
+     color: white;
+     font-size: 22px;
+     margin-top: 20px;
+ }
+ .face{
+     flex: 1;
+ }
+ .btn-secondary{
+     padding: 10px;
+     margin-top: 20px;
+     height: 40px;
+     width: 130px;
+     background-color: orangered;
+     color: black;
+     font-weight: bold;
+     border-radius: 10px;
+     outline: none;
+     cursor: pointer;
+ }
+ .btn-secondary:hover{
+     background-color: beige;
+ }
+ .face{
+    background-color:rgba(7, 0, 0, 0.75);
+    border-radius: 10px;
+ }
+ fieldset{
+     max-width: 85%;
+     margin: auto;
+     border: none;
+ }
+ .in{
+     display: block;
+     margin-left: 10px;
+     margin-top: 30px;
+     border-left: none;
+     border-right: none;
+     border-top: none;
+     background-color: transparent;
+     outline: none;
+     border-color: orangered;
+     padding:15px 75px;
+ }
+ .in::placeholder{
+     color:white;
+     font-size: 15px;
+ }
+ .btn-one{
+     padding: 15px 120px;
+     margin-top: 30px;
+     color: orangered;
+     font-weight: bold;
+     font-size: 20px;
+     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+     border-radius: 10px;
+     outline: none;
+     border-style: none;
+ }
+ .btn-two{
+    padding: 15px 140px;
+    margin-top: 30px;
+    color: black;
+    font-weight: bold;
+    font-size: 20px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border-radius: 10px;
+    outline: none; 
+    background-color: orangered;
+    cursor: pointer;
+    border-style: none;
+ }
+ .btn-two:hover{
+     background-color: beige;
+ }
+ .pro{
+    text-align: center;
+    margin-top: 15px;
+ }
+ .pro a{
+     color: orangered;
+     text-decoration: none;
+ }
+ .bro{
+     text-align: center;
+     margin-top: 20px;
+ }
+ .last{
+     display: flex;
+     justify-content: space-between;
+     margin-top: 30px;
+     margin-bottom: 20px;
+ }
+ .fb{
+     width: 30px;
+ }
+ .fb a{
+     
+ }

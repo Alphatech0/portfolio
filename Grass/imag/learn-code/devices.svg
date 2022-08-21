@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="194px" height="134px" viewBox="0 0 194 134" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 58 (84663) - https://sketch.com -->
+    <title>devices</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Round-3" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Home---Desktop" transform="translate(-1122.000000, -2540.000000)">
+            <g id="Callout" transform="translate(0.000000, 2420.000000)">
+                <g id="Group-6" transform="translate(1219.423161, 176.522722) rotate(-15.000000) translate(-1219.423161, -176.522722) translate(1104.423161, 96.022722)">
+                    <g id="screen" transform="translate(132.000000, 86.000000) rotate(-345.000000) translate(-132.000000, -86.000000) translate(55.000000, 30.000000)">
+                        <rect id="Rectangle-Copy-2" stroke="#002339" stroke-width="2" fill="#FFFFFF" x="0" y="0" width="154" height="112" rx="2"></rect>
+                        <path d="M153,5.81723925 L153,109 C153,110.104569 152.104569,111 151,111 L3,111 C1.8954305,111 1,110.104569 1,109 L1,56.1015625 L1,56.1015625 L150.340389,3.92914159 C151.383156,3.56484826 152.523804,4.11486029 152.888098,5.15762783 C152.96217,5.36965551 153,5.59264528 153,5.81723925 Z" id="Rectangle-Copy-4" fill="#F8F8F8"></path>
+                        <path d="M2,0 L152,0 C153.104569,-2.02906125e-16 154,0.8954305 154,2 L154,6 L154,6 L0,6 L0,2 C-1.3527075e-16,0.8954305 0.8954305,2.02906125e-16 2,0 Z" id="Rectangle-Copy-3" fill="#002339"></path>
+                        <circle id="Oval" fill="#A3A9AC" cx="3" cy="3" r="1"></circle>
+                        <circle id="Oval-Copy" fill="#A3A9AC" cx="6" cy="3" r="1"></circle>
+                        <circle id="Oval-Copy-2" fill="#A3A9AC" cx="9" cy="3" r="1"></circle>
+                    </g>
+                    <g id="tablet" transform="translate(72.000000, 87.000000) rotate(-345.000000) translate(-72.000000, -87.000000) translate(34.000000, 31.000000)">
+                        <rect id="Rectangle-Copy" fill="#002339" x="0" y="0" width="76" height="112" rx="6"></rect>
+                        <rect id="Rectangle" fill="#FFFFFF" x="4" y="4" width="68" height="104"></rect>
+                        <polygon id="Rectangle-Copy-5" fill="#F8F8F8" points="72 61.3359375 72 108 4 108 4 86.1015625"></polygon>
+                    </g>
+                    <g id="phone" transform="translate(32.000000, 100.000000) rotate(-345.000000) translate(-32.000000, -100.000000) translate(10.000000, 59.000000)">
+                        <rect id="Rectangle" fill="#002339" x="0" y="0" width="44" height="82" rx="7"></rect>
+                        <rect id="Rectangle" fill="#FFFFFF" x="4" y="7" width="36" height="68"></rect>
+                        <polygon id="Rectangle-Copy-6" fill="#F8F8F8" points="40 61.2224946 40 75 4 75"></polygon>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

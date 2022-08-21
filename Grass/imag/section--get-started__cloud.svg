@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="121px" height="41px" viewBox="0 0 121 41" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.1 (51147) - http://www.bohemiancoding.com/sketch -->
+    <title>section--get-started__cloud</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="0.756715385 0.633326316 120.695173 0.633326316 120.695173 40.9442737 0.756715385 40.9442737"></polygon>
+    </defs>
+    <g id="Home" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="home---web" transform="translate(-637.000000, -3908.000000)">
+            <g id="get-started" transform="translate(0.000000, 3502.000000)">
+                <g id="Group-5" transform="translate(637.000000, 406.000000)">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <g id="Clip-4"></g>
+                    <path d="M94.2106,10.0400632 C89.1239462,10.0400632 84.3723692,11.4689053 80.3374846,13.9444842 C74.0175615,5.84616842 64.1490808,0.633326316 53.0496577,0.633326316 C38.9368692,0.633326316 26.8089462,9.05816842 21.4453885,21.1280632 C20.3424269,20.9057474 19.1999077,20.7876421 18.0294654,20.7876421 C8.49140769,20.7876421 0.756715385,28.4853263 0.756715385,37.9777474 C0.756715385,38.9897474 0.849792308,39.9809053 1.01733077,40.9442737 L19.0253885,40.9442737 L35.0416,40.9442737 L68.1281192,40.9442737 L87.0716,40.9442737 L120.293081,40.9442737 C120.551369,39.4644842 120.695638,37.9476421 120.695638,36.3983789 C120.695638,21.8413263 108.837638,10.0400632 94.2106,10.0400632" id="Fill-3" fill="#FFFFFF" mask="url(#mask-2)"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
